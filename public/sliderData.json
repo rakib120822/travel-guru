@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cox’s Bazar",
+    "image": "https://i.ibb.co.com/LhN2w4yp/Rectangle26.png",
+    "description": "The longest sea beach in the world, famous for its golden sand and beautiful sunsets over the Bay of Bengal."
+  },
+  {
+    "id": 2,
+    "name": "Saint Martin’s Island",
+    "image": "https://i.ibb.co.com/B5VZWYcL/Rectangle27.png",
+    "description": "A small coral island in the Bay of Bengal known for its crystal-clear water, coral reefs, and serene beauty."
+  },
+  {
+    "id": 3,
+    "name": "Rangamati",
+    "image": "https://i.ibb.co.com/dJMCpZzN/Rectangle28.png",
+    "description": "A picturesque hill district surrounded by Kaptai Lake and lush green hills, perfect for boat rides and relaxation."
+  },
+  {
+    "id": 4,
+    "name": "Sajek Valley",
+    "image": "https://i.ibb.co.com/ZRStHxGh/Sajek.png",
+    "description": "Known as the 'Queen of Hills,' Sajek offers breathtaking views, rolling clouds, and a peaceful tribal lifestyle."
+  },
+  {
+    "id": 5,
+    "name": "Sreemangal",
+    "image": "https://i.ibb.co.com/21BmWWVh/Sreemongol.png",
+    "description": "The tea capital of Bangladesh, filled with green tea gardens, wildlife sanctuaries, and the famous seven-layer tea."
+  },
+  {
+    "id": 6,
+    "name": "Sundarbans",
+    "image": "https://i.ibb.co.com/XZrtL5Mt/sundorbon.png",
+    "description": "The world’s largest mangrove forest and home to the majestic Royal Bengal Tiger and rich biodiversity."
+  }
+]
