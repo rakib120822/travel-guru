@@ -1,16 +1,62 @@
-# React + Vite
+### Travel Guru
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Travel Guru is a travel website built using Vite + React, React Router, Tailwind CSS, DaisyUI, and Swiper Slider.
+The website is designed to showcase travel destinations and provide interactive tour spot information.
 
-Currently, two official plugins are available:
+### 📝 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Travel Guru is a dynamic travel website that allows users to explore different tour spots.
+The website is currently under development, with features planned for dynamic content and category-wise tour spot details.
 
-## React Compiler
+### Planned Features:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Fetch data from fake JSON data in the public folder
 
-## Expanding the ESLint configuration
+Browse tour spots by category
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive tour spot details display
+
+### 🛠️ Technologies Used
+
+Vite + React
+
+React Router
+
+Tailwind CSS
+
+DaisyUI
+
+Swiper Slider
+
+### ✨  Features
+
+Dynamic data fetching from JSON or API
+
+Category-wise tour spot details
+
+Interactive UI with Swiper Slider for tour images
+
+Responsive and visually appealing design
+
+### 🎯 Future Targets
+
+Add Admin Panel to manage content
+
+Integrate database for persistent storage
+
+Add additional pages:
+
+Contact Us
+
+FAQ Page
+
+About Page
+
+Implement Firebase Authentication for secure access
+
+Deploy the website to a live hosting platform
+
+### 👨‍💻 Author
+
+Rakibul Islam Payel
+GitHub: https://github.com/rakib120822
